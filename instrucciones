@@ -1,2 +1,4 @@
 mvn clean
 mvn package
+mvn clean install
+mvn clean compile
